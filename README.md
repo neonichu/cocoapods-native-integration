@@ -1,5 +1,7 @@
 # cocoapods-native-integration
 
+⚠️  WIP: this does not work, yet ⚠️
+
 Natively integrate frameworks instead of via the "Copy Frameworks" script.
 
 ## Installation
