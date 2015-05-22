@@ -1,1 +1,3 @@
-require 'cocoapods-native-integration/gem_version'
+module CocoapodsNativeIntegration
+  VERSION = '0.0.1'
+end

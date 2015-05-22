@@ -9,5 +9,4 @@ task :specs do
   sh "bundle exec bacon #{specs('**')}"
 end
 
-task :default => :specs
-
+task default: :specs

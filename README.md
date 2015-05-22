@@ -1,6 +1,6 @@
 # cocoapods-native-integration
 
-A description of cocoapods-native-integration.
+Natively integrate frameworks instead of via the "Copy Frameworks" script.
 
 ## Installation
 
@@ -8,4 +8,10 @@ A description of cocoapods-native-integration.
 
 ## Usage
 
-    $ pod spec integration POD_NAME
+Put
+
+```ruby
+plugin 'cocoapods-native-integration'
+```
+
+in your `Podfile` to use this for your project.
